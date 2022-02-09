@@ -8,8 +8,8 @@
 #  [projectname](https://linkProject)
 
 [![Issues](https://img.shields.io/github/issues/nunesinc/lunes-pattern-public)](https://github.com/nunesinc/lunes-pattern-public/issues)
-![Forks](https://img.shields.io/github/forks/nunesinc/lunes-pattern-public?color=blueviolet)
-![Stars](https://img.shields.io/github/stars/nunesinc/lunes-pattern-public?color=blueviolet)
+[![Forks](https://img.shields.io/github/forks/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/network/members)
+[![Stars](https://img.shields.io/github/stars/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/stargazers)
 
 
 
