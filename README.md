@@ -8,6 +8,7 @@
 #  [projectname](https://linkProject)
 
 [![Issues](https://img.shields.io/github/issues/nunesinc/lunes-pattern-public)](https://github.com/nunesinc/lunes-pattern-public/issues)
+[![CommitActivity](https://img.shields.io/github/commit-activity/m/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/pulse)
 [![Forks](https://img.shields.io/github/forks/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/network/members)
 [![Stars](https://img.shields.io/github/stars/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/stargazers)
 [![Contributors](https://flat.badgen.net/github/contributors/nunesinc/lunes-pattern-public?color=purple)](https://github.com/nunesinc/lunes-pattern-public/graphs/contributors)
@@ -18,7 +19,7 @@
 [![License](https://img.shields.io/github/license/nunesinc/lunes-pattern-public?color=blueviolet)](LICENSE)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label&color=purple)](https://github.com/lunes-platform)
 
-<br>
+<br><br>
   <a href="https://twitter.com/LunesPlatform" target="_blank">
     <img alt="Twitter: Lunes Platform" src="https://badgen.net/twitter/follow/lunesplatform?icon=twitter&label=follow @LunesPlatform&color=purple" />
   </a>  
