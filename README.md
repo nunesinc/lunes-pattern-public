@@ -10,16 +10,16 @@
 
 
 [![License](https://img.shields.io/github/license/nunesinc/lunes-pattern-public?color=blueviolet)](LICENSE)
-[![GitHub](https://badgen.net/badge/icon/github?icon=github&label?color=pink)](https://github.com/lunes-platform)
+[![GitHub](https://badgen.net/badge/icon/github?icon=github&label&color=purple)](https://github.com/lunes-platform)
 <br>
   <a href="https://twitter.com/LunesPlatform" target="_blank">
-    <img alt="Twitter: Lunes Platform" src="https://badgen.net/twitter/follow/lunesplatform?icon=twitter&label=follow @LunesPlatform" />
+    <img alt="Twitter: Lunes Platform" src="https://badgen.net/twitter/follow/lunesplatform?icon=twitter&label=follow @LunesPlatform&color=purple" />
   </a>  
   <a href="https://t.me/LunesPlatformPT" target="_blank">
-    <img alt="Telegram" src="https://badgen.net/badge/icon/Lunes%20Platform?icon=telegram&label=Telegram"/>
+    <img alt="Telegram" src="https://badgen.net/badge/icon/Lunes%20Platform?icon=telegram&label=Telegram&color=purple"/>
   </a>
 
-- Change repo and username in code from shields and badges
+- Change some repo and username in  code from shields and badges
 
  
 - Understand what the project is about 
