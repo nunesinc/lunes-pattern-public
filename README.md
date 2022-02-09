@@ -10,8 +10,9 @@
 [![Issues](https://img.shields.io/github/issues/nunesinc/lunes-pattern-public)](https://github.com/nunesinc/lunes-pattern-public/issues)
 [![Forks](https://img.shields.io/github/forks/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/network/members)
 [![Stars](https://img.shields.io/github/stars/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/stargazers)
-[![Contributors](https://flat.badgen.net/github/contributors/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/graphs/contributors)
-[![OpenIssues](https://badgen.net/github/open-issues/nunesinc/lunes-pattern-public)](https://github.com/nunesinc/lunes-pattern-public/issues?q=is%3Aopen)
+[![Contributors](https://flat.badgen.net/github/contributors/nunesinc/lunes-pattern-public?color=purple)](https://github.com/nunesinc/lunes-pattern-public/graphs/contributors)
+![ClosedIssue](https://flat.badgen.net/github/closed-issues/nunesinc/lunes-pattern-public?color=red)
+[![Branches](https://badgen.net/github/branches/nunesinc/lunes-pattern-public)](https://github.com/nunesinc/lunes-pattern-public/branchesn)
 
 
 [![License](https://img.shields.io/github/license/nunesinc/lunes-pattern-public?color=blueviolet)](LICENSE)
