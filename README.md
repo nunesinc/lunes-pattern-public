@@ -5,10 +5,10 @@
   </a>
 </p>
 
-# 🔭 [Telescope](https://blockchain.lunes.io/telescope/)
+#  [projectname](https://linkProject)
 
 
-[![pipeline status](https://git.lunes.io/blockchain/telescope/badges/main/pipeline.svg)](https://git.lunes.io/blockchain/telescope/-/commits/main)
+
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label)](https://github.com/lunes-platform)
 <br>
@@ -31,7 +31,7 @@ The Telescope documentations is hosted at [Telescope page](https://blockchain.lu
 ## Contributing
 Telescope is still under development. Contributions are always welcome! Please follow the [Developers Guide](CONTRIBUTING.md) if you want to help.
 ## Contributors
-
+(github links) 
 * [@olivmath](https://git.lunes.io/olivmath)
 * [@xonfps](https://git.lunes.io/xonfps)
 * [@nunes](https://git.lunes.io/nunes)
