@@ -15,10 +15,10 @@
 ![ClosedIssue](https://flat.badgen.net/github/closed-issues/nunesinc/lunes-pattern-public?color=red)
 [![Branches](https://badgen.net/github/branches/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/branches)
 [![Watchers](https://img.shields.io/github/watchers/nunesinc/lunes-pattern-public.svg?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/watchers)
-[![Watchers](https://img.shields.io/github/followers/nunesinc.svg?style=social&label=Follow&maxAge=2592000?color=blueviolet)](https://github.com/nunesinc?tab=followers)
+[![Followers](https://img.shields.io/github/followers/nunesinc.svg?style=social&label=Follow&maxAge=2592000?color=blueviolet)](https://github.com/nunesinc?tab=followers)
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Flunes.io%2F)](https://lunes.io)
-
-
+![PullRequest](https://img.shields.io/github/issues-pr/nunesinc/lunes-pattern-public?color=blueviolet)
+![PullRequestClosed](https://img.shields.io/github/issues-pr-closed/nunesinc/lunes-pattern-public?color=blueviolet)
 [![License](https://img.shields.io/github/license/nunesinc/lunes-pattern-public?color=blueviolet)](LICENSE)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label&color=purple)](https://github.com/lunes-platform)
 
