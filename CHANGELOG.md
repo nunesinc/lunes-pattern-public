@@ -1,7 +1,14 @@
-# CHANGELOG 
+# CHANGELOG v.[0.0.0] 
 
-All notable changes to this project will be documented in this file.
+## Deprecated
 
-## [0.0.0] - 2022-02-03
+## Issued
 
-- Fix: 
+## Fixed
+
+## Refactored
+
+## Removed
+
+## Others
+
