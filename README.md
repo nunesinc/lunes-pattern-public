@@ -24,10 +24,10 @@
 
 <br><br>
   <a href="https://twitter.com/LunesPlatform" target="_blank">
-    <img alt="Twitter: Lunes Platform" src="https://badgen.net/twitter/follow/lunesplatform?icon=twitter&label=follow @LunesPlatform&color=purple" />
+    <img alt="Twitter: Lunes Platform" src="https://badgen.net/twitter/follow/lunesplatform?icon=twitter&label=follow @LunesPlatform&color=blue" />
   </a>  
   <a href="https://t.me/LunesPlatformPT" target="_blank">
-    <img alt="Telegram" src="https://badgen.net/badge/icon/Lunes%20Platform?icon=telegram&label=Telegram&color=purple"/>
+    <img alt="Telegram" src="https://badgen.net/badge/icon/Lunes%20Platform?icon=telegram&label=Telegram&color=blue"/>
   </a>
 
 - Change some repo and username in  code from shields and badges
