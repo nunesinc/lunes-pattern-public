@@ -5,12 +5,16 @@
   </a>
 </p>
 
+<div align="center">
+
 #  [projectname](https://linkProject)
+
+[![Stars](https://img.shields.io/github/stars/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/stargazers)
+[![License](https://img.shields.io/github/license/nunesinc/lunes-pattern-public?color=blueviolet)](LICENSE)
 
 [![Issues](https://img.shields.io/github/issues/nunesinc/lunes-pattern-public)](https://github.com/nunesinc/lunes-pattern-public/issues)
 [![CommitActivity](https://img.shields.io/github/commit-activity/m/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/pulse)
 [![Forks](https://img.shields.io/github/forks/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/network/members)
-[![Stars](https://img.shields.io/github/stars/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/stargazers)
 [![Contributors](https://flat.badgen.net/github/contributors/nunesinc/lunes-pattern-public?color=purple)](https://github.com/nunesinc/lunes-pattern-public/graphs/contributors)
 ![ClosedIssue](https://flat.badgen.net/github/closed-issues/nunesinc/lunes-pattern-public?color=red)
 [![Branches](https://badgen.net/github/branches/nunesinc/lunes-pattern-public?color=blueviolet)](https://github.com/nunesinc/lunes-pattern-public/branches)
@@ -19,8 +23,8 @@
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Flunes.io%2F)](https://lunes.io)
 ![PullRequest](https://img.shields.io/github/issues-pr/nunesinc/lunes-pattern-public?color=blueviolet)
 ![PullRequestClosed](https://img.shields.io/github/issues-pr-closed/nunesinc/lunes-pattern-public?color=blueviolet)
-[![License](https://img.shields.io/github/license/nunesinc/lunes-pattern-public?color=blueviolet)](LICENSE)
 [![GitHub](https://badgen.net/badge/icon/github?icon=github&label&color=purple)](https://github.com/lunes-platform)
+</div>
 
 <br><br>
   <a href="https://twitter.com/LunesPlatform" target="_blank">
@@ -44,9 +48,12 @@ The changelog process for this project is described [here](CHANGELOG.md).
 
 ## Documentation
 The [ project ] documentations is hosted at [ project ](https://blockchain.lunes.io/telescope/)
+
 ## Contributing
-[project name ] is still under development. Contributions are always welcome! Please follow the [Developers Guide](CONTRIBUTING.md) if you want to help.
-## Contributors
+
+` project ` is still under development. Contributions are always welcome! Please follow the [Developers Guide](CONTRIBUTING.md) if you want to help.
+
+Thanks to the following people who have contributed to this project:
 
 (github links)
 
@@ -54,7 +61,6 @@ The [ project ] documentations is hosted at [ project ](https://blockchain.lunes
 * [@xonfps](https://github.com/xonfps)
 * [@nunesinc](https://github.com/nunesinc)
 * [@joelEsteves](https://github.com/joelesteves)
-
 ## Credits
 
 - Made with [Docusaurus](https://docusaurus.io/)
